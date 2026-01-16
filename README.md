@@ -75,6 +75,9 @@ Chevrolet Bolt EV
 
 Tesla Model X
 
+## DASHBOARD
+<img width="1409" height="800" alt="POWER BI DASHBOARD IMAGE" src= />
+
 ## Tesla models dominate at the model level, reinforcing strong brand trust and product performance.
 
 🎯 Business Insights & Recommendations
